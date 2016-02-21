@@ -1,0 +1,35 @@
+.accept_leave_button {
+position : block;
+font : Arial; 
+font-size: 18px; 
+color:blue ; 
+margin : 20px;
+padding : 3px; 
+}
+
+
+.reject_leave_button{
+position : block;
+font : Arial; 
+font-size: 18px; 
+color:blue ; 
+margin : 20px;
+padding : 3px; 
+
+}
+.reject_leave_button:hover {
+
+color:red;
+
+}
+.accept_leave_button:hover {
+
+color:red;
+
+}
+.leave_application_text{
+margin: 10px;
+color: brown; 
+font : bold 16px/30px Georgia, serif; 
+
+}

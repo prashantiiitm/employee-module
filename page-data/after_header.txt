@@ -1,0 +1,36 @@
+<div class="content">
+<center>
+<?php
+if($_SESSION['login'] == true )
+{
+?>
+
+
+</div>
+</center>
+<?php
+}
+else 
+{
+
+?>
+
+
+<label for='intro' id="content_first"> You are not logged in : Please log in <label>
+
+<div class="row1">
+<h1 class="title">
+</div>
+</div>
+<div class="content-right">
+<div class="mainmenu">
+<ul>
+</ul>
+</div>
+<div class="contact">
+<div class="contact-detail">
+
+</div>
+</div>
+</div>
+</div>

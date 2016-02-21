@@ -1,0 +1,84 @@
+#project_information {
+	font: 75% georgia, sans-serif;
+	line-height: 1.88889;
+	color: #555753; 
+	background: #fff ; 
+	margin: 0; 
+	padding: 0;
+	text-align: justify;
+
+}
+#not_logged_in {
+	font: 75% georgia, sans-serif;
+	font-size: 15px;
+	color: #555753; 
+	background: #fff ; 
+	margin: 0; 
+	padding: 0;
+	text-align: justify;
+}
+
+#filename_show{
+font-size: 14px;
+}
+.file_submit{
+width: 75px;
+
+}
+
+.submit_resume{
+padding: 10px 15px 11px ;
+font-size: 18px ;
+background-color: #57d6c7;
+font-weight: bold;
+text-shadow: 1px 1px #57D6C7;
+color: #ffffff;
+border-radius: 5px;
+-moz-border-radius: 5px;
+-webkit-border-radius: 5px;
+border: 1px solid #57D6C7;
+cursor: pointer;
+box-shadow: 0 1px 0 rgba(255, 255, 255, 0.5) inset;
+-moz-box-shadow: 0 1px 0 rgba(255, 255, 255, 0.5) inset;
+-webkit-box-shadow: 0 1px 0 rgba(255, 255, 255, 0.5) inset;
+text-decoration: none; 
+}
+
+#resume_header{
+font-weight: bold;
+}
+
+#valid_msg{
+font-size:15px;
+padding:0px;
+margin: 0px;
+}
+#table_area{
+width: auto ; 
+height : 100%; 
+border : 1px dotted red; 
+overflow: hidden;
+padding :30px;
+}
+
+#first_line{
+border: 2px solid ; 
+border-radius: 20px; 
+background-color: Brisque;
+padding : 10px; 
+margin-top: 20px; 
+margin-bottom: 30px;
+font: 24px georgia, sans-serif !important;
+text-align: center;
+height: 40px;
+padding-top:20px;
+}
+
+#first_line:hover{
+border: 3px solid ;
+
+}
+
+.content-left{
+background-color: Cornsilk !important;
+}

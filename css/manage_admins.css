@@ -1,0 +1,33 @@
+#new_admin_requests{
+margin: 15px; 
+padding: 15px;
+
+
+
+
+
+}
+
+#existing_admins{
+margin: 15px; 
+padding: 15px;
+
+
+
+}
+.heading_area{
+background: url(../images/header-top.jpg) ;
+background-position: left top;
+background-repeat: repeat -x;
+font-size: 20px; 
+color: white; 
+font-weight: bold , italics;
+font: Verdana;
+margin: 10px; 
+padding: 10px;
+height: 50px;
+border-radius: 20px ;
+
+
+
+}

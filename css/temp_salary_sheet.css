@@ -1,0 +1,22 @@
+#after_heading
+{
+	height:180px !important;
+	width: 100%; 
+}
+#emp_basic_details_1
+{
+height:180px !important;
+}
+#salary_details_values
+{
+	margin-top: 30px;
+	height: 100px;
+}
+div.print{
+		width: 90% !important ;
+		height: 1000px !important;
+		padding:10px !important;
+		margin-top: 0px !important;
+		margin-left:4% !important;
+}
+

@@ -1,0 +1,23 @@
+
+
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Employee management portal</title>
+  <meta name="description" content="Description of your site goes here">
+  <meta name="keywords" content="keyword1, keyword2, keyword3">
+  <link href="css/page_style.css" rel="stylesheet" type="text/css">
+	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+	
+	<script type='text/javascript' src="scripts/my_account_details.js"></script>
+			<script src='scripts/check_for_login.js'></script>
+</head>
+<body>
+
+
+
+
+<div class="page-in">
+<div class="page">
+<div class="main">

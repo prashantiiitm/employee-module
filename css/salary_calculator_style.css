@@ -1,0 +1,103 @@
+.form_label
+{
+position: absolute ; 
+font-size: 16px;
+color: red;
+display: block;
+height: 74px;
+font-family: Tahoma !important;
+font-weight: bold; 
+
+
+
+}
+.contact_detail{
+
+
+position: absolute ; 
+font-size: 16px;
+color: red;
+display: block;
+height: 74px;
+font-family: Arial,Helvetica,sans-serif;
+
+}
+ input, textarea { 
+	padding: 5px; 
+	border: solid 1px #E5E5E5; 
+	height: 21px; 
+	outline: 0; 
+	font: normal 13px/100% Verdana, Tahoma, sans-serif; 
+	width: 200px; 
+	background: #FFFFFF left top repeat-x; 
+	background: -webkit-gradient(linear, left top, left 25, from(#FFFFFF), color-stop(4%, #EEEEEE), to(#FFFFFF)); 
+	background: -moz-linear-gradient(top, #FFFFFF, #EEEEEE 1px, #FFFFFF 25px); 
+	box-shadow: rgba(0,0,0, 0.1) 0px 0px 8px; 
+	-moz-box-shadow: rgba(0,0,0, 0.1) 0px 0px 8px; 
+	-webkit-box-shadow: rgba(0,0,0, 0.1) 0px 0px 8px; 
+} 
+
+select {
+    padding:3px;
+    margin: 0;
+	width: 200px;
+    -webkit-border-radius:4px;
+    -moz-border-radius:4px;
+    border-radius:4px;
+    -webkit-box-shadow: 0 3px 0 #ccc, 0 -1px #fff inset;
+    -moz-box-shadow: 0 3px 0 #ccc, 0 -1px #fff inset;
+    box-shadow: 0 3px 0 #ccc, 0 -1px #fff inset;
+    background: #f8f8f8;
+    color:#888;
+    border:none;
+    outline:none;
+    display: inline-block;
+    -webkit-appearance:none;
+    -moz-appearance:none;
+    appearance:none;
+    cursor:pointer;
+	margin-right: 25px; 
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+    select {padding-right:18px}
+}
+
+
+span.description {
+font-size: 14px;
+font: Verdana;
+margin-top:0px;
+padding: 0px;
+}
+.form_field{
+height: 50px; 
+margin-left: 10px;
+margin-right: 10px; 
+padding: 1px; 
+
+}
+fieldset{
+border:2px dotted #00f;
+background-color: #F5F5DC; 
+border-radius: 20px ;
+}
+
+legend{
+ padding: 0.2em 0.5em;
+  border:1px solid green;
+  color:green;
+  font-size:90%;
+  text-align:right;
+
+
+}
+
+#salary_calc{
+border : 2px dotted ;
+padding: 20px; 
+border-radius: 20px;
+background-color: Bisque;
+
+
+}
